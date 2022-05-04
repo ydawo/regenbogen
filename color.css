@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+.rot {
+  width: 100vw;
+  height: 14vh;
+  background-color: red;
+}
+
+.blau {
+  width: 100vw;
+  height: 14vh;
+  background-color: blue;
+}
+
+.brown {
+  width: 100vw;
+  height: 14vh;
+  background-color: brown;
+}
+
+.gold {
+  width: 100vw;
+  height: 14vh;
+  background-color: gold;
+}
+.tan {
+  width: 100vw;
+  height: 14vh;
+  background-color: tan;
+}
+.tomato {
+  width: 100vw;
+  height: 14vh;
+  background-color: tomato;
+}
+
+.indigo {
+  width: 100vw;
+  height: 16vh;
+  background-color: indigo;
+}
